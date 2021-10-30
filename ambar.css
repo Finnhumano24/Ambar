@@ -64,3 +64,6 @@
             #pri{
                 font-size: 120%;
             }
+            a:hover{
+                color: rgb(44, 44, 212);
+            }
